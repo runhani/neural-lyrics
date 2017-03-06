@@ -1,6 +1,5 @@
 ## Lyrics generation using Keras Char LSTM
-Yesterday, I learned keras (It's awesome for fast experiment.)
-So, I want to generate korean-lyrics with char LSTM.
+I want to generate korean-lyrics with char LSTM ^^. 
 
 
 ##### *Result*
